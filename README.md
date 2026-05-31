@@ -25,4 +25,4 @@ A machine learning model to classify Iris flowers into 3 species:
 - `iris_confusion_matrix.png` — Model Evaluation
 
 ## 👤 Author
-Rishi Bhatt — CodeAlpha Data Science Intern
+Rishi Kumar — CodeAlpha Data Science Intern
